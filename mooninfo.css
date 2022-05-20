@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    background-image: url("mooninfopage1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.h1{
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+}
+.p{
+    font-size: 10px;
+    color: white;
+    text-align: left;
+    font: inherit;
+    width:800px;
+}
+#s15{
+    height:auto;
+    width: 895px;
+    font-size: 23px;
+
+}

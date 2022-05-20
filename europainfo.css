@@ -1,0 +1,15 @@
+img{
+    position: absolute;
+    margin-top: 360px;
+    left: 150px;
+    
+}
+
+body{
+    background-image: "europa.jpg";
+}
+p{top:0px;
+position: relative;
+color: white;
+text-align: left;
+font-size: 25px;}
